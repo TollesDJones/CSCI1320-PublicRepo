@@ -1,0 +1,14 @@
+MARTIAN_ID,FIRST_NAME,LAST_NAME,BASE_ID,SUPERVISOR_ID
+1,Luke,Hobbs,1,
+2,Tej ,Parker,4,10
+3,Roman,Pierce,4,2
+4,Mia,Toretto,1,9
+5,Brian,O'Conner,2,12
+6,Dominic,Toretto,3,8
+7,Sean,Boswell,1,1
+8,Han,Lue,3,
+9,Gisele,Yashar,1,1
+10,Letty,Ortiz,4,
+11,Monica,Fuentes,4,2
+12,Rico,Santos,2,
+13,Jonah,Hobbs,,8
