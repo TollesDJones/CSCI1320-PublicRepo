@@ -1,0 +1,49 @@
+Directions: Insert a screenshot of your query results into the document for query answers. 
+
+
+
+
+How many rows are in our data set? 
+
+
+What is the time span covered in our data? i.e. the earliest recorded date and the most recent recorded date.
+
+
+What is the range of magnitudes covered by our data? 
+
+
+What is the average magnitude?
+
+
+How many earthquakes were natural earthquakes? 
+
+
+How many earthquakes were caused by nuclear explosions?
+
+
+How many distinct causes of earthquakes are there in the data? 
+
+
+What is the most recent earthquake caused by a nuclear explosion? Limit your columns to only place, magnitude, and the date of occurrence. 
+
+
+What are the 10 strongest earthquakes on our list? Limit your columns to only place, magnitude, and the date of occurrence.
+
+
+How many earthquakes occurred near Japan during the 1980s?
+
+
+
+
+Challenge**
+How many columns are in our data set? 
+
+
+If our table were fully normalized would you put the ‘cause’ attribute in it’s own table? Why or why not? 
+
+
+Google one of the dates with a cause of ‘explosion’. What did you find about the cause? 
+
+
+Could “Referential Integrity” assist in a situation like this? 
+
